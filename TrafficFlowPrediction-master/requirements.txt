@@ -1,0 +1,11 @@
+tensorflow~=2.16.2
+keras~=3.6.0
+numpy~=1.26.4
+pandas~=2.2.2
+matplotlib~=3.9.2
+tkcalendar~=1.6.1
+pydot~=1.2.4
+scikit-learn~=1.5.2
+h5py~=3.12.1
+geopy~=2.4.1
+folium~=0.17.0
